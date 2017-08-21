@@ -1,0 +1,21 @@
+Design and develop a mini-project of your choice which encompasses the following components:
+ 
+1.      A database containing at least 2 tables (SQL Azure or Oracle or mySQL)
+2.      An ASP.Net MVC 5 application which maintains the data in that database table i.e. CRUD using the Entity Framework (code first approach)
+3.      A RESTful web service which provides access to some piece of analysis of the data stored in the database table, one operation will suffice.
+4.      A simple console client app for the web service which calls the operation and displays the result of the analysis.
+ 
+Design and implement the project. Develop some unit tests for the logic of the application. Use GitHub to manage the project and its source code.
+ 
+Deploy the web application and web service on Azure. Scale. 
+ 
+Before proceeding specify the functionality of the system and submit to GC for vetting before proceeding. Also indicate the team members. If you are not in a team you will randomly assigned to a team.
+ 
+Deliverables:
+·         Source code in GitHub
+·         Documentation
+o   Database design
+o   Screen shots for web and console apps
+o   URI addressing scheme for web service
+o   Hard copy of source code
+·         Demo of project
